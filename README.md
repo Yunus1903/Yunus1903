@@ -1,6 +1,6 @@
-## Welcome!
+## Hi there!
 
-### My links
+### Where you can find me
 - [Twitter](https://twitter.com/yunus1903dj)
 - [Twitch](https://www.twitch.tv/yunus1903)
 - [Discord](https://discord.com/users/84995878154166272) - Yunus#1903
