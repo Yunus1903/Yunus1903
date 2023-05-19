@@ -1,7 +1,7 @@
 ## hi there!
 
 ### About me
-Hello, I'm [Yunus Sogut](https://github.com/Yunus1903), a passionate IT student from Belgium with a variety of skills in software & hardware.
+Hello, I'm [Yunus Sogut](https://github.com/Yunus1903), a passionate IT enthousiast from Belgium with a variety of skills in software & hardware.
 My knowledge is mostly self-taught and partly from my studies. I'm mainly a back-end developer but occasionally do full-stack as well.
 
 Open-source is something I totally stand for as I love to collaborate and learn lots from open-source communities.
