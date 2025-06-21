@@ -16,7 +16,3 @@ With my background in electronics, I occasionally work on IoT projects and autom
 <a href="https://www.linkedin.com/in/sogut-y">
 	<img style="margin-left: 0.5rem" alt="Yunus's LinkedIn" height="32px" src="assets/linkedin.png" />
 </a>
-&nbsp;
-<a href="https://www.curseforge.com/members/yunus1903/projects">
-	<img style="margin-left: 0.2rem" alt="Yunus's CurseForge" height="32px" src="assets/curseforge.svg" />
-</a>
